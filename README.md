@@ -1,5 +1,5 @@
 # ToDo-List
-[Link- Click Here!](https://my-t0d0-l1st.herokuapp.com/)
+[Live Demo- Click Here!](https://my-t0d0-l1st.herokuapp.com/)
 
 ## Its a TodoList webapp where people can make a list of tasks and edit it accordingly.
 ### Tech-Stack
@@ -11,7 +11,7 @@
 ### Running locally
 ```
 $ git clone https://github.com/immaruf/ToDo-List.git
-$ cd todo_list_mean
+$ cd ToDO-List
 $ npm i
 $ mongod  
     # if you don't have mongodb installed, use $ apt-get install mongodb
