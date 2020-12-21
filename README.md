@@ -5,7 +5,7 @@
 * EJS- For rendering the data from user to DB and vice versa on the webpages.
 * NPM Packages- Various other NPM packages like Body-Parser etc
 * It supports `CRUD` operation to a todo task
-*Communication between browser and server is established.
+* Communication between browser and server is established.
 [Live Demo- Click Here!](https://my-t0d0-l1st.herokuapp.com/)
 ##RUN
 ### Running locally
