@@ -9,7 +9,7 @@
 
 [Live Demo- Click Here!](https://my-t0d0-l1st.herokuapp.com/)
 
-##RUN
+## RUN
 ### Running locally
 ```
 $ git clone https://github.com/immaruf/ToDo-List.git
